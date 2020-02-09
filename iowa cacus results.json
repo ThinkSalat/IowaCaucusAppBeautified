@@ -1,0 +1,129 @@
+{
+  "Bennet": {
+    "Adair": {
+      "1NW ADAIR": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "3SW FONTANELLE": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "5GF GREENFIELD": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "2NE STUART": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "4SE ORIENT": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "Total": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      }
+    },
+    "Adams": {
+      "Adams 5": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "Adams 2": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "Adams 4": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "Adams 3": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "Adams 1": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "Total": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      }
+    },
+    "Allamakee": {
+      "Pct 01 - WL/HV": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "Pct 06 - FV/TL/HF City": {
+        "First Expression": "...",
+        "SDE": "0"
+      },
+      "Mason City, IA - The Willows": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "Mason City, IA - Oakwood Care Center & Assisted Living": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "Storm Lake, IA - Methodist Manor": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "Logan, IA - Westmont Care Center": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "Mason City, IA - Heritage Care and Rehabilitation Center": {
+        "First Expression": "1",
+        "Final Expression": "1",
+        "SDE": "0.0284"
+      },
+      "Grundy, IA - Creekside Living": {
+        "First Expression": "1",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "Mason City, IA - Good Shephard Health Center": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "Lake Mills, IA - Lake Mills Care Center": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "Manson, IA - Good Samaritan Society - Manson": {
+        "First Expression": "0",
+        "Final Expression": "0",
+        "SDE": "0"
+      },
+      "Total": {
+        "First Expression": "2",
+        "Final Expression": "1",
+        "SDE": "0.0284"
+      }
+    }
+  }
+}
